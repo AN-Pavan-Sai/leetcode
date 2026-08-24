@@ -7,7 +7,6 @@
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         if not root: return None
-        temp = root
         lst = []
 
         def inorder(temp):
@@ -17,4 +16,9 @@ class Solution:
             lst.append(temp.val)
             inorder(temp.right)
         inorder(root)
-        return lst == sorted(set(lst))
+
+        for i in range(1,len(lst)):
+            if lst[i]<=lst[i-1]:
+                return False
+        
+        return True
