@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2942-find-words-containing-character](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
