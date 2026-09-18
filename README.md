@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
 | [2942-find-words-containing-character](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
 | [1688-count-of-matches-in-tournament](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
