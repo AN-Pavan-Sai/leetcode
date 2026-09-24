@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2942-find-words-containing-character](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
 | [1688-count-of-matches-in-tournament](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
