@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0118-pascals-triangle) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AN-Pavan-Sai/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
