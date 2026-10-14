@@ -9,5 +9,4 @@ class Solution:
             return ""
         else:
             return ans + "0"*(num-len(ans))
-
-        
+                        
