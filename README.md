@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0050-powx-n) |
 | [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
 | [1688-count-of-matches-in-tournament](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
