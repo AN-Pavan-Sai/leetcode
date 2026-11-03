@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0118-pascals-triangle) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1447-simplified-fractions](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1447-simplified-fractions) |
 | [1688-count-of-matches-in-tournament](https://github.com/AN-Pavan-Sai/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AN-Pavan-Sai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AN-Pavan-Sai/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
